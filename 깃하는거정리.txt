@@ -1,3 +1,4 @@
 깃 초기화 - git init
 깃 스테이징 - git add .
 깃 커밋 - git commit -m '메세지쓰면됨'
+새로운작업을 더 했음
